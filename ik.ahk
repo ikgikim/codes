@@ -46,14 +46,6 @@ clipboard := "몬스터헌터"
 send ^v
 return
 
-:*:la^?::
-clipboard := "lavastar"
-send ^v
-send {Tab}
-clipboard := "cd03pd81"
-send ^v{enter}
-return
-
 :*:tmg_+::
 clipboard := "tmasterk@gmail.com"
 send ^v
