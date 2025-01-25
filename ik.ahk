@@ -60,7 +60,7 @@ send ^v
 return
 
 #If GetKeyState("Capslock","P")
-    W::sendraw st022@war
+    W::
     q::
     click 114 66
     sleep 500
