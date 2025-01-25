@@ -6,3 +6,7 @@ word.py > 동일폴더의 텍스트파일들을 길이에 따라 줄바꿈해준
 
 makeppt.py > 동일폴더의 텍스트파일들을 PPT파일로 만들어준다.  
 
+ik.ahk > 개인용 오토핫키  
+
+excelpptscroll.ahk > 엑셀 PPT에서 shift키 + 스크롤하면 좌우 스크롤이 되도록 하는 오토핫키
+
